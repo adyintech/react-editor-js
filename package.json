@@ -1,5 +1,6 @@
 {
   "author": "Jungwoo An <o1o9814@naver.com>",
+  "name": "react-editor-js",
   "version": "2.0.6",
   "private": true,
   "scripts": {
